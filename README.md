@@ -1,12 +1,11 @@
 # flu
 
-##설명
 기상정보로 감기예상환자 예측
 
 ![image](https://github.com/zzanggeonui//streamlit_flu/blob/main/%EA%B0%90%EA%B8%B0%EC%A7%84%EB%A3%8C%20%ED%99%98%EC%9E%90.png)
 
-##주소
 
+## 주소
 http://ec2-43-201-85-127.ap-northeast-2.compute.amazonaws.com:8503/
 
 ## Dataset
@@ -27,4 +26,4 @@ https://www.data.go.kr/data/15083145/fileData.do?recommendDataYn=Y
 ## ai 인공지능
  Linear Regressionr로 수치예측 진행
 
- ![image](https://github.com/zzanggeonui//streamlit_flu/blob/main/%EB%A9%94%EC%9D%B8%ED%99%94%EB%A9%B4.png)
+ ![image](https://github.com/zzanggeonui//streamlit_flu/blob/main/메인화면.png)
