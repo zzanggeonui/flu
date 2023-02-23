@@ -3,7 +3,6 @@
 ##설명
 기상정보로 감기예상환자 예측
 
-![chatbot_ex](https://user-images.githubusercontent.com/105832446/171950293-b2b7bdca-8833-444d-99af-5616ef389290.png)
 
 http://ec2-43-201-85-127.ap-northeast-2.compute.amazonaws.com:8503/
 
