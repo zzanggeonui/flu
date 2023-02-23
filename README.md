@@ -2,7 +2,7 @@
 
 기상정보로 감기예상환자 예측
 
-![image](https://github.com/zzanggeonui//streamlit_flu/blob/main/%EA%B0%90%EA%B8%B0%EC%A7%84%EB%A3%8C%20%ED%99%98%EC%9E%90.png)
+![image](https://github.com/zzanggeonui/streamlit_flu/blob/main/메인화면.png)
 
 
 ## 주소
@@ -26,4 +26,4 @@ https://www.data.go.kr/data/15083145/fileData.do?recommendDataYn=Y
 ## ai 인공지능
  Linear Regressionr로 수치예측 진행
 
- ![image](https://github.com/zzanggeonui//streamlit_flu/blob/main/메인화면.png)
+ ![image](https://github.com/zzanggeonui/streamlit_flu/blob/main/감기진료%20환자.png)
