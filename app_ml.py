@@ -32,5 +32,12 @@ def run_ml():
     y_pred= round(y_pred[0])
 
     st.info('예측한 잠재적 감기환자는 {}명 입니다.'.format(y_pred,","))
+    if y_pred > 6500 :
+        st.info("예상 환자의 수가 하루평균 잠재적 환자보다 높습니다.")
+    elif y_pred >= 5000 :
+        st.info("예상 환자의 수가 하루평균 잠재적 환자수와 비슷합니다.")
+    else :
+        st.info("예상 환자의 수가 하루평균 잠재적 환자보다 낮습니다.")
+        
 
 

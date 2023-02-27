@@ -8,7 +8,7 @@ from app_ml import run_ml
 
 def main():
     st.set_page_config(
-     page_title="기상정보로 사고율 예측",
+     page_title="기상정보로 감기환자 예측",
      page_icon="🌦️",
     #  layout="wide",
      initial_sidebar_state="expanded",
